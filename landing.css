@@ -1,0 +1,82 @@
+* {
+   /*  margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+.capa {
+    height:80vh;
+    background-color:blueviolet;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+h1 {
+    font-size:60px
+}
+p {
+    font-size: 20px;
+}
+.capa img{
+    width: 30vw;
+}
+.aluno {
+    height: 80vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-style:oblique
+   
+}
+.texto-aluno{
+    width: 50vw;
+}
+
+.aluno img{
+    height: 500px;
+}
+
+.portfolio {
+    height: 80vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.grupo {
+    height: 80vh;
+    background-color:blueviolet;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.grupo img {
+    width:50vw;
+}
+.texto-grupo {
+        width: 500px;
+}
+.outrosgrupos {
+    height: 80vh;
+    background-color: blueviolet;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.logo-grupos{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:space-around;
+   align-items: center;
+   padding: 2%;
+
+}
+
+.retangulo {
+    height: 80px;
+}
+.quadrado {
+    height: 100px;
+}
