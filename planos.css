@@ -1,0 +1,31 @@
+.planos {
+    background-image: linear-gradient(to bottom, rgb(140, 13, 231), rgb(57, 2, 146));
+    background-attachment: fixed;
+    height: 80vh;
+}
+img{
+    width: 200px;
+}
+.planos-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.plano{
+    height:400px ;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+}
+.plano img{
+    width: 50px;
+}
+.plano ul{
+    text-align: left;
+}
+.plano button{
+    background-color: #9021FF;
+    color:
+}
